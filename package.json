@@ -1,0 +1,20 @@
+{
+  "name": "jetphotoapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "caller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonaskroedel/jetphotoAPI.git"
+  },
+  "private": true,
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "express": "^4.21.2",
+    "puppeteer": "^24.1.0"
+  }
+}
